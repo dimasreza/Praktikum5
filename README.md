@@ -98,4 +98,14 @@ while True:                                                                     
         print("Pilih menu yang tersedia: ")                                                    ## Jika menu yang dipilih tidak valid, akan muncul pesan tsb.
 ```
 - Flowchart
-![Screenshot Praktikum5](https://user-images.githubusercontent.com/56240719/72049734-2310cf00-32f2-11ea-91fe-5035a73f37bb.jpg)
+
+
+![IMG_20200112_201312](https://user-images.githubusercontent.com/56240719/72219452-de4a9980-3578-11ea-84eb-81c00f2fd7ed.jpg)
+
+
+
+
+
+
+
+
