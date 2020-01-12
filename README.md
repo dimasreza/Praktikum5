@@ -100,7 +100,8 @@ while True:                                                                     
 - Flowchart
 
 
-![IMG_20200112_201312](https://user-images.githubusercontent.com/56240719/72219452-de4a9980-3578-11ea-84eb-81c00f2fd7ed.jpg)
+![Screenshot Praktikum 5](https://user-images.githubusercontent.com/56240719/72219809-a3e2fb80-357c-11ea-84bf-69e4a49c6edf.jpg)
+
 
 
 
